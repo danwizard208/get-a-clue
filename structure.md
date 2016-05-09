@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Structure Ideas
 
 * Callbaks / sceneswap
