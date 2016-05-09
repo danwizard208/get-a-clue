@@ -13,3 +13,7 @@ title: Themes
 * misery @ work 
 * Character driven - video game characters
 * Silicon Valley 
+
+### Links
+* [Home]("index.html")
+* [Structures]("structure.html")

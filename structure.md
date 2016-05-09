@@ -10,3 +10,7 @@ title: Structures
 * 1st line last line
 * physicality 
 * sketch dossiers for characters
+
+### Links
+* [Home]("index.html")
+* [Themes]("theme.html")
