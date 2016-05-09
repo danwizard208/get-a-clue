@@ -15,5 +15,5 @@ title: Themes
 * Silicon Valley 
 
 ### Links
-* [Home]("index.html")
-* [Structures]("structure.html")
+* [Home](index.html)
+* [Structures](structure.html)
