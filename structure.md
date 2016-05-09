@@ -12,5 +12,5 @@ title: Structures
 * sketch dossiers for characters
 
 ### Links
-* [Home](/)
+* [Home](.)
 * [Themes](theme)
