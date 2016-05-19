@@ -29,6 +29,18 @@
 
           {{ content }}
 
+          <div id="footer">
+            <h3>Links</h3>
+            <ul>
+              {% for page in site.pages %}
+                {% if page.title %}
+                <li>
+                  <a href="{{ page.url | replace:'.html','' }}"> {{ page.title }} </a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
       </div><!-- /.inner clearfix -->
     </div><!-- /#content-wrapper -->
   </body>

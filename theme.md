@@ -6,7 +6,3 @@ title: Themes
 {% for theme in site.data.themes %}
   * {{ theme }}
 {% endfor %}
-
-### Links
-* [Home](.)
-* [Structures](structure)

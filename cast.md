@@ -12,7 +12,3 @@ title: Cast
 {% for person in site.data.cast.maybe %}
   * {{ person }}
 {% endfor %}
-
-### Links
-* [Home](.)
-* [Structures](structure)
